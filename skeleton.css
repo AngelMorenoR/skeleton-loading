@@ -92,7 +92,7 @@ h1 {
     top: 0;
     left: 0;
     opacity: .3;
-    box-shadow: 1px 0px 70px 40px hsl(0, 0%, 75%);
+    box-shadow: 1px 0px 70px 10px hsl(0, 0%, 75%);
     transform: skewX(-20deg);
     animation: loading infinite 1.2s linear ;
 }
